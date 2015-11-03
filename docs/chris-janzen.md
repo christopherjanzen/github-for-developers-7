@@ -3,3 +3,4 @@
 **From:** Canada
 **Favourite Food:** Pizza
 **Hobby:** Music
+**Favourite Colour:** Teal
