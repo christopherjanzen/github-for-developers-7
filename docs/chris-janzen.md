@@ -5,6 +5,6 @@
 
 **A Favorite Food:** Pizza
 
-**Hobby:** Music
+**Hobby:** Playing music
 
 **Favourite Colour:** Teal
