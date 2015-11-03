@@ -1,8 +1,10 @@
 #Bio
-*Name:* Chris Janzen
+**Name:** Chris Janzen
 
-*From:* Canada
+**From:** Canada
 
-*A Favorite Food:* Pizza
+**A Favorite Food:** Pizza
 
-*Hobby:* Music
+**Hobby:** Music
+
+**Favourite Colour:** Teal
